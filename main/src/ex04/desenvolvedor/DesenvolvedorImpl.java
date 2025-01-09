@@ -1,4 +1,4 @@
-package ex04.Desenvolvedor;
+package ex04.desenvolvedor;
 
 public class DesenvolvedorImpl implements  Desenvolvedor{
     @Override
