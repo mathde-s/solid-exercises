@@ -1,4 +1,4 @@
-package ex04.Funcionario;
+package ex04.funcionario;
 
 public class FuncionarioImpl implements Funcionario{
     @Override
